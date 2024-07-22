@@ -1,3 +1,12 @@
+# Getting Started
+
+실행 방법은 레포지토리의 최상위 폴더에서 아래의 명령어를 수행하면 된다.
+
+```bash
+python -m otoeic
+```
+
+
 # Class Diagram
 
 ```mermaid
